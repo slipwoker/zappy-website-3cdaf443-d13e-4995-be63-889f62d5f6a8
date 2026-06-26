@@ -1,0 +1,89 @@
+# אבי בן דוד, משרד עו"ד — Generative Engine Optimization Map
+
+> A law firm specializing in family law, personal status law, military law, and social security and Ministry of Defense claims. The firm handles sensitive and complex legal matters for individuals navigating personal, familial, and military-related legal challenges in Israel.
+
+---
+
+## Pages
+
+### בית
+https://-3cdaf443.zappy5.app
+מתמודדים עם גירושים, משמורת או סכסוך משפחתי? אבי בן דוד מספק ייצוג משפטי רגיש וחד כתער בדיני משפחה, אישות וירושה. השאירו פרטים לייעוץ ראשוני עוד היום.
+
+### אודות
+https://-3cdaf443.zappy5.app/about
+מאחורי כל תיק יש סיפור אנושי. הכירו את אבי בן דוד, עו&quot;ד המשלב מומחיות בדיני צבא, ביטוח לאומי ומשפחה עם ליווי אישי ברגעים המורכבים בחיים. קראו עוד.
+
+### שירותים
+https://-3cdaf443.zappy5.app/services
+זקוקים לעו&quot;ד לצוואה, תביעת ביטוח לאומי או ייצוג בבית דין צבאי? גלו את מגוון השירותים המשפטיים שאבי בן דוד מציע לפרטים, חיילים ומשפחות. היכנסו לבדוק התאמה.
+
+### צור קשר
+https://-3cdaf443.zappy5.app/contact
+אל תתמודדו לבד מול הבירוקרטיה. צרו קשר עם אבי בן דוד עוד היום לייעוץ דיסקרטי וממוקד בתיקי גירושים, צבא וביטוח לאומי. הפתרון קרוב משחשבתם.
+
+### תודה רבה | אבי בן דוד, משרד עו"ד
+https://-3cdaf443.zappy5.app/thank-you
+אבי בן דוד, משרד עו"ד - תודה רבה | אבי בן דוד, משרד עו"ד
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3cdaf443.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3cdaf443.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3cdaf443.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-3cdaf443.zappy5.app/contact
+- Endpoint: https://-3cdaf443.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אבי בן דוד, משרד עו"ד
+A law firm specializing in family law, personal status law, military law, and social security and Ministry of Defense claims. The firm handles sensitive and complex legal matters for individuals navigating personal, familial, and military-related legal challenges in Israel.
+
+## Services/Products
+- דיני משפחה
+- דינים אישיים
+- דיני צבא
+- תביעות ביטוח לאומי
+- תביעות משרד הביטחון
+
+## Target Audience
+- לקוחות בתחום דיני משפחה
+- חיילים
+- אנשים מבוגרים
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3cdaf443.zappy5.app/sitemap.xml
+- Robots: https://-3cdaf443.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3cdaf443.zappy5.app/llms-full.txt
